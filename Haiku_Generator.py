@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #
-#Raven Sinclaire
+#Miphiel
 
 import random
 import urllib2
