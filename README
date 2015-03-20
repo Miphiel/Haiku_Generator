@@ -1,0 +1,10 @@
+#Program Name
+Haiku Generator
+
+#Created by
+Raven Sinclaire
+
+#Description
+Pulls random words out of an online dictionary.
+Counts the syllables in each word.
+Creates a haiku using those words.
